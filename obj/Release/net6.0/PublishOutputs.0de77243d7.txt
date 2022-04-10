@@ -1,0 +1,5 @@
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\publish\DotNet.Docker.exe
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\publish\DotNet.Docker.dll
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\publish\DotNet.Docker.deps.json
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\publish\DotNet.Docker.runtimeconfig.json
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\publish\DotNet.Docker.pdb

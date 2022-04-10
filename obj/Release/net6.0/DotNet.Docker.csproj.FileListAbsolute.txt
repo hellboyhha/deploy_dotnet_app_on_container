@@ -1,0 +1,15 @@
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\DotNet.Docker.exe
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\DotNet.Docker.deps.json
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\DotNet.Docker.runtimeconfig.json
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\DotNet.Docker.dll
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\ref\DotNet.Docker.dll
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\bin\Release\net6.0\DotNet.Docker.pdb
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.csproj.AssemblyReference.cache
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.AssemblyInfoInputs.cache
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.AssemblyInfo.cs
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.dll
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\ref\DotNet.Docker.dll
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.pdb
+G:\CMHL\OneDrive - City Mart Holding Company Limited\CMHL\Deploy Dotnet App with Kubernetes\Deploy Dotnet app on container\App\obj\Release\net6.0\DotNet.Docker.genruntimeconfig.cache
